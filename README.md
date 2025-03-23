@@ -14,4 +14,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhrajritik&show_icons=true&locale=en&layout=compact" alt="singhrajritik" /></p>
 
 
-[![An image of @singhrajritik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singhrajritik)](https://holopin.io/@singhrajritik)
+
