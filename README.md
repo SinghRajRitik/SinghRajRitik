@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=ANKIT%20SINGH&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Systems%20%E2%80%A2%20Scalable%20Products&descAlignY=60&descSize=18&animation=fadeIn" />
+<<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=RITIK%20RAJ%20SINGH&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI-Powered%20Apps%20%E2%80%A2%20Scalable%20Products&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI%2FML+Systems+Builder+%F0%9F%A7%A0;React+%7C+Node.js+%7C+Python+Developer;Building+Scalable+Products+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;Building+AI%2FPowered+Apps+%F0%9F%A4%96;React+%7C+Node.js+%7C+Python+Developer;Building+Scalable+Products+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
