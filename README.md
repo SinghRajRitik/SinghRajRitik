@@ -11,13 +11,13 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhankit001)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhankit91624@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/singhankit001)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhankit001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SinghRajRitik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikrajsingh60224@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://ritik-portfolio-showcase-98765.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Singh_ritik01)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghRajRitik)
 
-<img src="https://komarev.com/ghpvc/?username=singhankit001&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SinghRajRitik&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -27,27 +27,33 @@
 
 ```javascript
 const developer = {
-  name:     "Ankit Singh",
-  username: "singhankit001",
-  role:     "AI/ML + Full Stack Developer",
+  name:     "Ritik Raj Singh",
+  username: "SinghRajRitik",
+  role:     "Gen-AI + Full Stack Developer",
   stack: {
     languages: ["Python", "JavaScript", "TypeScript", "SQL"],
     frontend:  ["React", "Next.js", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js", "MongoDB", "MySQL"],
-    ai:        ["Machine Learning", "AI Integrations", "TensorFlow"],
+    DevOps:        ["Docker", "AWS EC2", "Kubernetes"],
   },
   motto:     "Build, Learn, Sleep, Repeat.",
   available:  true,   // 🟢 Open to opportunities
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🚀 Currently building **AI-powered full-stack products**
+  
 - 🧠 Exploring **AI/ML, automation, and scalable web systems**
+  
 - 💬 Ask me about **React, Node.js, Python, SQL, and AI projects**
-- 📫 Reach me at: **singhankit91624@gmail.com**
+
+- 📫 Reach me at: **ritikrajsingh60224@gmail.com**
+  
 - ⚡ Motto: **Performance. Consistency. Production-focused engineering.**
+
+- 🌱 Currently learning **Generative AI & Agentic AI Systems**
 
 <br clear="right"/>
 
@@ -55,7 +61,7 @@ const developer = {
 
 ## 🏆 Featured Projects
 
-> Selected builds that highlight my AI, full-stack, and product engineering work.
+> Selected builds that highlight my AI Powered, full-stack, and product engineering work.
 
 <div align="center">
 
